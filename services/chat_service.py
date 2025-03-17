@@ -75,7 +75,7 @@ def generate_response(chatbot: Chatbot, message: str) -> str:
             Process the user's last message and update the collected information.
             Required information to gather: {chatbot.info_gathering_prompts}
             Current collected information: {str(chatbot.collected_info)}
-            Return a JSON with the message and the data collected and if yuo're asking any addistional questions, make sure to track the user's response in the data field Just create a list of dict for "question" and "user_response" for additional questions stated in the system prompt earlier.
+            Return a JSON with the message and the data collected and if yuo're asking any addistional questions, make sure to track the user's response in the data field Just create a list of dict for "question" and "user_response" for additional questions stated in the system prompt earlier. Be sure to include the questions in the actual message, because only the message is going to be displayed to the user.
         """
     }
     

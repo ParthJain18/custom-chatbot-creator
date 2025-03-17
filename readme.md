@@ -4,11 +4,15 @@
 
 This tool allows users to create custom AI-powered chatbots designed for specific information gathering needs. The platform enables the creation of specialized chatbots that can handle various requirements, such as gathering information or handling additional questions.
 
+[Demo Video link](https://youtu.be/9S1927evjCk)
+
 Key capabilities:
 - Create chatbots with predefined information gathering objectives
 - Customize conversation flows based on specific requirements
 - Handle technical and non-technical interactions
 - Deploy user-friendly interfaces for both creators and end-users
+
+
 
 ## Screenshots
 
